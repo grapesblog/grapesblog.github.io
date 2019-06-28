@@ -3,17 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>grapesblog.github.io/a/</loc>
+    <lastmod>2019-06-27T19:29:32-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>grapesblog.github.io/</loc>
+    <lastmod>2019-06-27T19:29:32-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>grapesblog.github.io/post/</loc>
+    <lastmod>2019-06-27T19:29:32-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>grapesblog.github.io/archives/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>grapesblog.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>grapesblog.github.io/</loc>
     <priority>0</priority>
   </url>
   
