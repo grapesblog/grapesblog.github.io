@@ -3,7 +3,7 @@
     <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1">
-    <title>Tags - Grapes Blog</title>
+    <title>Supervised Learning - Grapes Blog</title>
 
     <style type="text/css">
         img.wp-smiley,
@@ -81,22 +81,64 @@
         
     </div>
         <div id="content" class="content">
-<main aria-role="main">
-  <header class="homepage-header">
-    <h1>Tags</h1>
-    
-  </header>
-  <div class="homepage-content">
-    
-    
-  </div>
-  <div>
-    
-    
-  </div>
 
+<main role="main">
+    <article role="article" class="post type-post format-standard hentry">
+        <header class="post-header">
+            <h1>Supervised Learning</h1>
+            <div class="post-details">
+                <a rel="bookmark">
+                    <time datetime="2019-06-28T628:1012:216">2019-06-28</time>
+                </a>
+				
+<span style="float: right;">
+    <div id="fb-root" style="height: 100%;"></div>
+    
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
+    
+    <div class="fb-share-button" data-href="https://grapesblog.github.io/supervised-learning/" data-layout="button_count" data-size="small">
+        <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fgrapesblog.github.io%2fsupervised-learning%2f" class="fb-xfbml-parse-ignore">Share</a>
+    </div>
+    &nbsp;
+    <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Supervised Learning" data-url="https://grapesblog.github.io/supervised-learning/" data-show-count="false">Tweet</a>
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    &nbsp;
+    
+</span>
 
+            </div>
+        </header>
 
+        <div class="post-content">
+            <p>Para tener una idea básica de cómo funciona el Supervised Learning (Aprendizaje Supervisado) empezaremos viendo un ejemplo sencillo del mismo y haremos referencia a la notación por la cual esta se maneja. 
+Supongamos que tenemos un <i>dataset</i> donde se tienen los precios de terrenos de casas con sus respectivos precios.</p>
+
+<p><center><img src="/img/1_2.png" alt="image 1" /></center></p>
+
+<p>Los cuales podemos graficar:</p>
+
+<p><img src="/img/2.png" alt="image 2" /></p>
+
+<p style="text-align: justify;">
+Dado este <i>dataset</i>, ¿Cómo podemos aprender a predecir los precios de otras casas, en función al tamaño del terreno?
+A modo de establecer una notación, usaremos $ x^i $ para hacer referencia a las variables de entrada (en este ejemplo el tamaño del terreno de la casa) tambien llamados como input features (características de entrada), y $ y^i$ para denotar la salida o tambien llamado como target variable, el cual es el que tratamos de predecir (en este ejemplo el precio). El par $(x^i,y^i)$ es llamado training example, y el <i>dataset</i> que usaremos para aprender - una lista de m <i>training examples</i> ${{(x^i,y^i;i=1, ..., m)}}$ -es llamado <i>training set</i>. Nótese que el superscript "(i)" en la notación es un index en el training set, y no así un exponente. Tambien usaremos $X$ para denotar el espacio de los valores de entrada, y $Y$ para el espacio de los valores de salida. En este ejemplo $ X = Y =  \mathbb{R} $.
+<br>
+<br>
+Para describir un problema de Supervised Learning (Aprendizaje Supervisado) de una manera más formal, nuestro objetivo es, dado un training set, para aprender una función $h: X \rightarrow  y$  tal que $h(x)$ es un buen predictor para un correspondiente valor de $y$. A esta función h se le llama hipótesis. El proceso se puede apreciar de la siguiente manera:
+</p>
+
+<p><center><img src="/img/3.png" alt="image 3" /></center></p>
+
+<p>Cuando el target variable que estamos tratando de predecir es continuo, como el del ejemplo de la casa, se le llama un problema de aprendizaje de regresión. Cuando y es discreto, entonces se trata de un problema de clasificación.</p>
+
+        </div>
+
+        <footer class="post-footer">
+            
+
+            
+        </footer>
+        
 <table cellspacing="15" style="width:100%; border: none;">
     <tr>
         <td style="text-align: center; border: none; padding: 0px;">
@@ -105,6 +147,28 @@
         </td>
     </tr>
 </table>
+
+        
+	
+	
+
+    </article>
+
+    
+    <nav class="navigation post-navigation" role="navigation">
+        <div class="nav-links">
+            <div class="nav-previous">
+                
+            </div>
+            <div class="nav-next">
+                
+            </div>
+        </div>
+    </nav>
+    <section>
+        
+    </section>
+    
 
 </main>
 

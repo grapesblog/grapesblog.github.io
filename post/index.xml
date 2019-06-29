@@ -12,24 +12,12 @@
     
     
     <item>
-      <title>Dos</title>
-      <link>https://grapesblog.github.io/dos/</link>
+      <title>Supervised Learning</title>
+      <link>https://grapesblog.github.io/supervised-learning/</link>
       <pubDate>Fri, 28 Jun 2019 22:12:21 -0400</pubDate>
       
-      <guid>https://grapesblog.github.io/dos/</guid>
-      <description>Upmath: Math Online Editor Create web articles and&amp;nbsp;blog posts with&amp;nbsp;equations and&amp;nbsp;diagrams Enter your math formula like this: $$ \log xy = \log x + \log y $$ For inline equation: $ a^2 + b^2 = c^2 $
-Example - Fundamentals Theorem of Calculus $$ \int_{a}^{b} f(x)dx = F(b) - F(a) $$</description>
-    </item>
-    
-    <item>
-      <title>A</title>
-      <link>https://grapesblog.github.io/a/</link>
-      <pubDate>Thu, 27 Jun 2019 19:29:32 -0400</pubDate>
-      
-      <guid>https://grapesblog.github.io/a/</guid>
-      <description>esto es a xd fdfsf sdf sd fsd f sf s esto es a xd fdfsf sdf sd fsd f sf s v
-esto es a xd fdfsf sdf sd fsd f sf s esto es a xd fdfsf sdf sd fsd f sf s esto es a xd fdfsf sdf sd fsd f sf s esto es a xd fdfsf sdf sd fsd f sf s esto es a xd fdfsf sdf sd fsd f sf s esto es a xd fdfsf sdf sd fsd f sf s esto es a xd fdfsf sdf sd fsd f sf s v
-esto es a xd fdfsf sdf sd fsd f sf s esto es a xd fdfsf sdf sd fsd f sf s esto es a xd fdfsf sdf sd fsd f sf s esto es a xd fdfsf sdf sd fsd f sf s esto es a xd fdfsf sdf sd fsd f sf s esto es a xd fdfsf sdf sd fsd f sf s esto es a xd fdfsf sdf sd fsd f sf s v</description>
+      <guid>https://grapesblog.github.io/supervised-learning/</guid>
+      <description>Para tener una idea básica de cómo funciona el Supervised Learning (Aprendizaje Supervisado) empezaremos viendo un ejemplo sencillo del mismo y haremos referencia a la notación por la cual esta se maneja.</description>
     </item>
     
   </channel>
