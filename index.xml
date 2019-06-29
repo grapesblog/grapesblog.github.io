@@ -1,25 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Inkblotty</title>
-    <link>grapesblog.github.io/</link>
-    <description>Recent content on Inkblotty</description>
+    <title>Grapes Blog</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Grapes Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Jun 2019 19:29:32 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2019 14:27:07 -0400</lastBuildDate>
     
-	<atom:link href="grapesblog.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>A</title>
-      <link>grapesblog.github.io/a/</link>
-      <pubDate>Thu, 27 Jun 2019 19:29:32 -0400</pubDate>
+      <title>1</title>
+      <link>http://example.org/1/</link>
+      <pubDate>Thu, 27 Jun 2019 14:27:07 -0400</pubDate>
       
-      <guid>grapesblog.github.io/a/</guid>
-      <description>esto es a xd fdfsf sdf sd fsd f sf s esto es a xd fdfsf sdf sd fsd f sf s v
-esto es a xd fdfsf sdf sd fsd f sf s esto es a xd fdfsf sdf sd fsd f sf s esto es a xd fdfsf sdf sd fsd f sf s esto es a xd fdfsf sdf sd fsd f sf s esto es a xd fdfsf sdf sd fsd f sf s esto es a xd fdfsf sdf sd fsd f sf s esto es a xd fdfsf sdf sd fsd f sf s v
-esto es a xd fdfsf sdf sd fsd f sf s esto es a xd fdfsf sdf sd fsd f sf s esto es a xd fdfsf sdf sd fsd f sf s esto es a xd fdfsf sdf sd fsd f sf s esto es a xd fdfsf sdf sd fsd f sf s esto es a xd fdfsf sdf sd fsd f sf s esto es a xd fdfsf sdf sd fsd f sf s v</description>
+      <guid>http://example.org/1/</guid>
+      <description>ASFAF afdfsds sfsd gasg afdfsds sfsd gasg afdfsds sfsd gasg afdfsds sfsd gasgafdfsds sfsd gasg afdfsds sfsd gasg afdfsds sfsd gasg afdfsds sfsd gasg
+afdfsds sfsd gasgafdfsds sfsd gasg afdfsds sfsd gasg afdfsds sfsd gas
+gasg afdfsds sfsd gasg afdfsds sfsd gas
+gasg afdfsds sfsd gasg afdfsds sfsd gas
+gasg afdfsds sfsd gasg afdfsds sfsd gas
+gasg afdfsds sfsd gasg afdfsds sfsd gas
+gasg afdfsds sfsd gasg afdfsds sfsd gas</description>
     </item>
     
   </channel>
