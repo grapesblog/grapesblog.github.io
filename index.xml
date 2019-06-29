@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grapes Blog</title>
-    <link>grapesblog.github.io/</link>
+    <link>http://grapesblog.github.io/</link>
     <description>Recent content on Grapes Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 28 Jun 2019 21:48:19 -0400</lastBuildDate>
     
-	<atom:link href="grapesblog.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://grapesblog.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2</title>
-      <link>grapesblog.github.io/2/</link>
+      <link>http://grapesblog.github.io/2/</link>
       <pubDate>Fri, 28 Jun 2019 21:48:19 -0400</pubDate>
       
-      <guid>grapesblog.github.io/2/</guid>
+      <guid>http://grapesblog.github.io/2/</guid>
       <description>adasd asd asd ass d as d</description>
     </item>
     
     <item>
       <title>1</title>
-      <link>grapesblog.github.io/1/</link>
+      <link>http://grapesblog.github.io/1/</link>
       <pubDate>Thu, 27 Jun 2019 14:27:07 -0400</pubDate>
       
-      <guid>grapesblog.github.io/1/</guid>
+      <guid>http://grapesblog.github.io/1/</guid>
       <description>YA gasg afdfsds sfsd gasg afdfsds sfsd gas
 gasg afdfsds sfsd gasg afdfsds sfsd gas
 gasg afdfsds sfsd gasg afdfsds sfsd gas</description>
